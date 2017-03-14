@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Word Count</string>
+    <string name="text">Enter a block of text to count.</string>
+</resources>
